@@ -7,7 +7,7 @@
     <img src="https://media.tenor.com/kXp0f-dmTXAAAAAi/%E6%94%B6%E5%88%B0-%E5%B7%A5%E4%BD%9C.gif" align="left" width="65px" />
   </a> 
   <p align="left" style="text-align: justify">
-    Olá, me chamo Yasmin Silva e sou uma desenvolvedora backend que uniu sua paixão pelo café com o desejo de explorar e desenvolver sistemas funcionais. Atualmente, estou buscando aprender e aprofundar meus conhecimentos, além     de colaborar em projetos reais.
+    Olá, me chamo Yasmin Silva e sou uma desenvolvedora backend que uniu sua paixão pelo café com o desejo de explorar e desenvolver sistemas funcionais. Atualmente, estou buscando aprofundar meus conhecimentos e colaborar em projetos reais.
   </p>
 </div>
 
